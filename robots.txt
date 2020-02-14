@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://augeibaeth.bingwhispers.com/sitemap.xml
